@@ -1,0 +1,12 @@
+body{
+    background-color: #a7c5eb;
+}
+
+.textalign{
+    text-align: center;
+}
+
+#page{
+    border: solid;
+    border-width: 2px;
+}
