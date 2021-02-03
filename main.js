@@ -21,6 +21,10 @@ function suma(){
         alert("wysłałeś donate o wartości 100 zł STONKS!");
         var stonks = new Audio('music/stonks.mp3');
         stonks.play();
+        document.getElementById("imgstonks").src = "image/stonks.jpeg";
     }
+    function dalatestonks(){
+    document.getElementById("imgstonks").src = "";
+}
 }
 // Widzisz ten kod brawo
